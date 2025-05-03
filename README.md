@@ -3,7 +3,7 @@
 
 
 
- Institute : Macao Polytechnic University
+🎓 Institute : Macao Polytechnic University
 ## Preparation
 1. Environment
    ```bash
