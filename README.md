@@ -2,8 +2,10 @@
  2024 ICME Grand Challenge: Multi-Modal Video Reasoning and Analyzing Competition (MMVRAC).Track #5: Video Grounding (Animal Kingdom dataset) 
 
 
-
 🎓 Institute : Macao Polytechnic University
+
+
+✉️ Contact : p2311581@mpu.edu.mo
 ## Preparation
 1. Environment
    ```bash
